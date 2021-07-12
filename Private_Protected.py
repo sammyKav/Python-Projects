@@ -9,5 +9,6 @@ class Employee:
 
 e1 = Employee("Sam Kavkewitz","CEO",183)
      
-print(e1.__num_citations) # attribute error
+print(e1.__num_citations) # attribute error given
+
 
