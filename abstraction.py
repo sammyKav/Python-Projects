@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 class crime(ABC):
     def theftArmed(self,sentence): 
          print("The time served for armed robbery: ",sentence)
-    @abstractmethod # passing water arugment for water parameter
+    @abstractmethod # passing sentence arugment for sentence parameter
     def timeServe(self,sentence):
         pass
 class penaltyFelony(crime):
