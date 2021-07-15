@@ -1,0 +1,7 @@
+This is my text file
+This is another line
+adding another modification to file
+another line 
+adding conflict
+correct line of text
+

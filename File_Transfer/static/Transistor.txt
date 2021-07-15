@@ -1,0 +1,51 @@
+
+Transistor -  Device allowing or not allwing eletricity flow. Controls computers decision making (binary digits). 
+
+Made from semiconductor. Somee times conducts sometimes doesn't conduct electricity. Use silicon (from sand - baked sand) add metal to it to change its property.
+Can change state by adding heat that will allow electricity to flow, then change temp and it will no longer flow. 
+
+
+Internet - Computers connected together. Could connect with a wire. Physical hardward and protocol. 
+
+Protocol - How data is structured broken down and sent (in packets i.e broken down pieces of data) (transferred). 
+
+IP - Internet Protocol
+
+TCP (Transfer control protocol) 
+
+HTTP - Hyper text trans protocol 
+
+SMTP - simple mail transmission protocol 
+
+VOIP - Voice over ignition protocol 
+
+Need different protocols for different types of data. 
+
+
+
+WEB - linked up hypertext documents. It can be sent over the internet. 
+
+Need a physical connection around the world to make the internet work. 
+
+Use a browser to retrieve request via internet hardware from web server(computer). Can be done wireless. 
+
+
+Digital - a machine operating on discrete values. 
+
+Analog - has a dimmer is a dimmer. Continuously changing data signal. 
+
+Computers can only operate  on discrete values. 
+
+
+SSD Explained. 
+
+Solid State Drive - type of device: storage device. 
+
+A drive is a memory storage device. 
+
+Solid State Drive - no moving parts much faster. Composed electronic parts each of which can hold millions of pieces of electronic information. 
+
+
+
+ 
+
