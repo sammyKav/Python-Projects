@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %} {% endblock %}
+
+{% block header %} List of Fans {% endblock %}
+
+{% block content %}
+{% for user in profiles %}
+    <ul>
+        <li>{{ user.First_Name }}</li>
+    </ul>
+{% endfor %}
+{% endblock %}
