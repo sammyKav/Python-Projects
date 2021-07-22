@@ -27,7 +27,7 @@ def create_account(request):
 def balance(request, pk):
     account = get_object_or_404(Account, pk=pk)
     transactions = Transaction.Transactions.filter(account=pk)
-    current_total = account.initial_deposit
+    current_total = account.initial_deposits
     table_contents = { }
     for t in transactions:
         if t.type == 'Deposit':
@@ -36,7 +36,7 @@ def balance(request, pk):
         else:
             current_total -= t.amount
             table_contents.update({t: current_total})
-    content = {'account': account, 'table_contents': table_contents,'balance': current_total}
+    content = {'account': account, 'table_contents': table_contents, 'balance': current_total}
     return render(request, 'checkbook/BalanceSheet.html', content)
 
 

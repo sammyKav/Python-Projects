@@ -8,7 +8,7 @@ html, body {
 body {
 	font-family: Lucida Sans Unicode;
 	text-align: center;
-	background-image: url('C:\python_projects\chbkEnv\Django_Checkbook\Checkbook\static\images\CheckCalligraphyPen.jpg');
+	background-color: darkblue;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

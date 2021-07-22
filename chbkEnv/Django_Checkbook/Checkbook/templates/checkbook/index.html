@@ -6,8 +6,8 @@
     <hr>
     <div class="text-center">
         <h5>Manage your existing account!</h5>
-        <form>
-            <label id="index-label">Choose Account</label>
+        <form method = 'POST'>
+            <label id="index-label">Choose Account:</label>
                 {% csrf_token %}
                 {{ form.account }}
             <button type="submit">Go to Account</button>
